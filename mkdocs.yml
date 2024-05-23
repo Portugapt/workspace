@@ -25,3 +25,5 @@ nav:
   - Introduction: 
     - index.md
     - Read Later: read_later.md
+  - External Tools:
+    - Stow: external_apps/stow.md
