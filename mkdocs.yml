@@ -1,0 +1,27 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: Workspace Configs
+site_url: https://portugapt.github.io/workspace
+theme:
+  name: material
+  palette:
+    primary: black
+  font:
+    text: Roboto
+  features:
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.indexes
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - toc:
+     permalink: true
+
+nav:
+  - Introduction: 
+    - index.md
+    - Read Later: read_later.md

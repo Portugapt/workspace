@@ -1,2 +1,5 @@
-# workspace
-My workspace configurations.
+# Workspace configurations
+
+Using:
+
+* zsh

@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "portugapt-workspace"
+version = "0.1.0"
+description = "Workspace configurations"
+authors = ["Portugapt <monteiro.joao.ps@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/portugapt/workspace"
+
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4"
+mkdocs-material = "9.5.24"
