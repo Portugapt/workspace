@@ -442,7 +442,8 @@
 #  program: /bin/bash
 #  args:
 #    - --login
-
+shell:
+  program: ubuntu
 # Startup directory
 #
 # Directory the shell is started in. If this is unset, or `None`, the working
