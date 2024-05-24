@@ -27,3 +27,5 @@ nav:
     - Read Later: read_later.md
   - External Tools:
     - Stow: external_apps/stow.md
+    - zinit: external_apps/zinit.md
+    - zsh: external_apps/zsh.md
